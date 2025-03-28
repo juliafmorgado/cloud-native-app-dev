@@ -24,6 +24,7 @@ Welcome! Here, you'll find resources to help you navigate the cloud-native ecosy
 - [Automatic testing and rollback of your GitOps with Argo Rollouts](https://jason-umiker.medium.com/automatic-rollback-of-your-gitops-with-argo-rollouts-04f94baa2d03)
 - [Progressive Delivery in Kubernetes: Why Companies Should Choose Argo Rollouts Over Deployments](https://chamodshehanka.medium.com/progressive-delivery-in-kubernetes-why-companies-should-choose-argo-rollouts-over-deployments-150dbd705508)
 - [Are things like Argo CD/Argo Rollouts really a good idea?](https://www.reddit.com/r/kubernetes/comments/1cgdikd/are_things_like_argo_cdargo_rollouts_really_a/)
+- [Minimize Impact in Kubernetes Using Argo Rollouts](https://medium.com/@arielsimhon/minimize-impact-in-kubernetes-using-argo-rollouts-992fb9519969)
 
 ### Dapr
 - [Official Documentation](https://dapr.io/)
